@@ -7,7 +7,7 @@ void setup()
   {
     Carriers[i] = new Flood();
   }
-  Helmet = loadImage("Master Chief.png");
+  Helmet = loadImage("https://m.media-amazon.com/images/I/81waLcTH5xS._AC_UY1000_.jpg");
 }
 void draw()
 {
